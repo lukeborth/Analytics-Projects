@@ -1,4 +1,4 @@
-# Analytics-Projects - MYSQL DATABASE CREATION
+#  - MYSQL DATABASE CREATION
 The following is a repository of my projects spanning across multiple different languages, as well as programs.
 
 SQL DATABASE CREATION
